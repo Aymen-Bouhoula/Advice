@@ -1,0 +1,14 @@
+.Active {
+    background-color: blue;
+    color: aliceblue;
+    }
+    span {
+        background-color: black;
+        border-radius: 200px;
+        padding: 20px;
+        color: aliceblue;
+        
+    }
+    div {
+        margin-top: 100px;
+    }
